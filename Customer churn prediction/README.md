@@ -1,3 +1,5 @@
+Title:
+
 Customers churn prediction
 
 Introduction:
@@ -11,7 +13,7 @@ The training dataset contains 4250 samples. Each sample contains 19 features and
 Methods:
 
 I tried different combinations of preprocessing steps, feature selection steps and hyperparameters in order to evaluate which pipeline performed the best.
-The algorithm used is XGBClassifier
+The algorithm used is Xgboost
 
 Results:
 
