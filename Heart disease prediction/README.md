@@ -10,7 +10,7 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 Methods:
 
 I tried different combinations of preprocessing steps, feature selection steps, hyperparameters and algorithms in order to evaluate which pipeline performed the best.
-Outlier detection and removal was added in pipelines in order to avoid data leakage.
+Outlier detection and removal were added in pipelines in order to avoid data leakage.
 The tested algorithms include LogisticRegression, Kneighbors, DecisionTree, RandomForest and Xgboost.
 
 Results:
