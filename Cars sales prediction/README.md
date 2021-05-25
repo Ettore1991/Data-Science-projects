@@ -2,7 +2,7 @@
 
 Predictive model and insights for automotive business
 
-### The Dataset and Data Description:
+### Dataset and Data Description:
 
 The dataset is made up of 10781 rows and 9 columns and contains information for model, year, price, transmission, mileage, fuel type, road tax, miles
 per gallon (mpg) and engine size
