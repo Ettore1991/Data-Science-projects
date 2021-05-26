@@ -8,7 +8,7 @@ The dataset is made up of 70864 rows and 9 columns and contains information abou
 
 ## Objective:
 
-Performing the following task by levarging Python:
+Performing the following tasks by levarging Python:
 - Cohort Analysis
 - Customer Segmentation
 - Market Basket Analysis
